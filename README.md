@@ -1,4 +1,5 @@
-Hola! estos son los algunos proyectos de software en los que he estado trabajando. Cualquier cosa, a mi email 
+Hola! estos son los algunos proyectos de software en los que he estado trabajando. Cualquier cosa, a mi gmail: jona-mhw-swe
+
 ;) 
 
 
