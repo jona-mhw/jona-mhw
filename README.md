@@ -20,4 +20,4 @@
 - ✉️ jonathan.segura.vega@gmail.com
 - 🐙 [github.com/jona-mhw](https://github.com/jona-mhw)
 
-<sub>Sideprojects pensados para resolverme cosas reales de mi día. Si te sirve algo, dale ⭐.</sub>
+
