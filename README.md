@@ -1,6 +1,6 @@
 <h2>👋 Jonathan Segura — Sistemas, IA &amp; automatización</h2>
 
-🇨🇱 Santiago, Chile · Construyo herramientas para colar la IA en flujos cotidianos.
+🇨🇱 Santiago, Chile · Construyo herramientas de sofrware y proyectos de aprendizaje usando IA
 
 ---
 
