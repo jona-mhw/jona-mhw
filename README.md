@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./mhw-snake.png" width="140" alt="mhw">
+  <img src="./mhw-mark.png" width="300" alt="mhw">
 </p>
 
 <p align="center">jonathan segura · mhw</p>
