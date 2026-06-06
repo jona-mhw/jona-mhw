@@ -1,8 +1,6 @@
-<p align="center">
-  <img src="./mhw-mark.png" width="300" alt="mhw">
-</p>
+<h1 align="center">mhw</h1>
 
-<p align="center">jonathan segura · mhw</p>
+<p align="center">jonathan segura</p>
 
 <p align="center">
   sistemas, ia y automatización. santiago, chile.<br>
